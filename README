@@ -1,0 +1,7 @@
+Simply a bundled version of the vim syntax highlighting.
+
+Install as you would a normal vim bundle.
+
+cd ~/.vim/bundle
+git clone git@github.com:garyharan/vim-proto.git
+# then restart vim
