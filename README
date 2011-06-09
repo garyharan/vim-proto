@@ -1,5 +1,7 @@
 Simply a bundled version of the vim syntax highlighting.
 
+The original code comes from http://protobuf.googlecode.com/svn/tags/release-2.0.1/editors/proto.vim this is simply a packaged version of it to make it easier to install.
+
 Install as you would a normal vim bundle.
 
 cd ~/.vim/bundle
